@@ -1,6 +1,5 @@
 /routing table
-add disabled=no fib name=WAN1
-add disabled=no fib name=WAN2
-add disabled=no fib name=WAN3
-add disabled=no fib name=WAN4
-
+add disabled=no fib name=ISP1
+add disabled=no fib name=ISP2
+add disabled=no fib name=ISP3
+add disabled=no fib name=ISP4

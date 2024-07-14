@@ -1,5 +1,5 @@
 /interface bridge
-add name=WAN1-CLIENT
-add name=WAN2-CLIENT
-add name=WAN3-CLIENT
-add name=WAN4-CLIENT
+add name=ISP1-CLIENT
+add name=ISP2-CLIENT
+add name=ISP3-CLIENT
+add name=ISP4-CLIENT
